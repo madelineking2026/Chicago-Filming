@@ -1,0 +1,46 @@
+h1 {font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 3em;
+    color: red;
+ }
+ h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 2em;
+    color:crimson;
+ }
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    font-size: 2em;
+    color:crimson;  
+}
+ body {
+    padding-left: 20%;
+    padding-right: 20%;
+ }
+ 
+ #nav-bar {
+    width:100%;
+    display: flex;
+    flex-direction: row;
+ }
+ .nav-item {
+    margin:auto;
+    padding: 10px;
+ }
+ .nav-item a{
+    color: red;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ @media (orientation: portrait) {
+    #content {
+      width: 100%;
+    }
+    body {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+ }
+ 
