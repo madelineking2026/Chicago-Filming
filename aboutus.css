@@ -19,6 +19,10 @@ h3{
     padding-left: 20%;
     padding-right: 20%;
  }
+
+ p {
+   font-size: 1.2em;
+ }
  
  #nav-bar {
     width:100%;
@@ -45,8 +49,25 @@ h3{
  }
  #lexi {
     text-align: right;
+    font-size: 1.2em;
  }
  #byline {
    color: crimson;
    text-align: center;
  }
+
+ #methodology {
+   font-size: 1em;
+   font-style: italic;
+   color: gray
+ }
+
+ #download {
+   text-align: right;
+   font-size: .8em;
+}
+
+#methodology {
+   font-style: italic;
+   font-size: .8em;
+}
