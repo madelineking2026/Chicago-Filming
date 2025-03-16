@@ -93,11 +93,3 @@ h3{
    padding-left: 0;          /* Remove left padding */
    padding-right: 0;         /* Remove right padding */
  }
-
- img {
-   margin: auto;
-   display: block;
-   padding-bottom: 0px;
-   height: auto;
-   max-width: 100%;
- }
