@@ -84,12 +84,6 @@ h3{
    font-size: .8em;
 }
 
-.iframe-container {
-   display: flex;
-   justify-content: center;  /* Centers horizontally */
-   align-items: center;      /* Centers vertically */
-   height: 100vh;            /* Ensure container takes full viewport height */
-   width: 100%;              /* Ensure the container takes full width */
-   padding-left: 0;          /* Remove left padding */
-   padding-right: 0;         /* Remove right padding */
+ #caption {
+   font-size: 1em;
  }
